@@ -2,7 +2,7 @@ library(datasets)
 library(lubridate)
 
 
-## a file to construct plot1
+## a function to construct plot1
 draw_plot1 <- function()
 {
 	## get the source data for plotting
