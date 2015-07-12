@@ -1,9 +1,9 @@
-HOW TO RUN THE SCRIPTS, Plot1.R, Plot2.R, Plot3.R, and Plot4.R
+**HOW TO RUN THE SCRIPTS, Plot1.R, Plot2.R, Plot3.R, and Plot4.R**
 
-You need to have datasets, lubridate packages installed.
-Set the working directory to where Plot1.R, Plot2.R, Plot3.R, and Plot4.R are located
-Source the scripts
-To make plot1, run the command, draw_plot1() 
-To make plot2, run the command, draw_plot2() 
-To make plot3, run the command, draw_plot3() 
-To make plot4, run the command, draw_plot4() 
+* You need to have datasets, lubridate packages installed.
+* Set the working directory to where Plot1.R, Plot2.R, Plot3.R, and Plot4.R are located
+* Source the scripts
+* To make plot1, run the command, draw_plot1() 
+* To make plot2, run the command, draw_plot2() 
+* To make plot3, run the command, draw_plot3() 
+* To make plot4, run the command, draw_plot4() 
