@@ -3,10 +3,8 @@ library(lubridate)
 
 
 ## a file to construct plot1
-draw_plot1 <- function(workDir)
+draw_plot1 <- function()
 {
-	setwd(workDir)
-
 	## get the source data for plotting
 	source("getdata.R")	
 	thedata <- retrieveData()
